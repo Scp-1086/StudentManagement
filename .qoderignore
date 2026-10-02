@@ -1,0 +1,13 @@
+# Qoder Ignore File
+# Specify files and folders to exclude from codebase indexing.
+# Syntax follows .gitignore rules.
+
+# .qoderignore 内容，排除不需要扫描的文件夹
+target/
+.idea/
+.git/
+out/
+logs/
+*.jar
+*.class
+

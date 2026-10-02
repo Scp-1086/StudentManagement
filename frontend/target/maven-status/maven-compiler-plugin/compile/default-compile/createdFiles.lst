@@ -1,0 +1,12 @@
+com\ndky\studentmanagement\gui\ScorePanel$1.class
+com\ndky\studentmanagement\gui\StudentPanel$1.class
+com\ndky\studentmanagement\entity\Course.class
+com\ndky\studentmanagement\gui\CoursePanel$1.class
+com\ndky\studentmanagement\gui\StatisticsPanel.class
+com\ndky\studentmanagement\gui\MainFrame.class
+com\ndky\studentmanagement\gui\ScorePanel.class
+com\ndky\studentmanagement\entity\Student.class
+com\ndky\studentmanagement\gui\CoursePanel.class
+com\ndky\StudentManagementGUI.class
+com\ndky\studentmanagement\gui\StudentPanel.class
+com\ndky\studentmanagement\entity\Score.class
